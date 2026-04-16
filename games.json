@@ -2,97 +2,97 @@
   {
     "id": "catan",
     "name": "Catan",
-    "description": "Trade, build, and settle the island of Catan.",
+    "info": "Trade, build, and settle the island of Catan.",
     "imageName": "Catan"
   },
   {
     "id": "monopoly",
     "name": "Monopoly",
-    "description": "Buy properties and bankrupt your friends.",
+    "info": "Buy properties and bankrupt your friends.",
     "imageName": "Monopoly"
   },
   {
     "id": "activity",
     "name": "Activity",
-    "description": "Guess words through drawing, acting, and describing.",
+    "info": "Guess words through drawing, acting, and describing.",
     "imageName": "Activity"
   },
   {
     "id": "dnd",
     "name": "Dungeons & Dragons",
-    "description": "A cooperative fantasy role-playing adventure game.",
+    "info": "A cooperative fantasy role-playing adventure game.",
     "imageName": "DnD"
   },
   {
     "id": "secret-hitler",
     "name": "Secret Hitler",
-    "description": "A social deduction game of deception and hidden roles.",
+    "info": "A social deduction game of deception and hidden roles.",
     "imageName": "SecretHitler"
   },
   {
     "id": "poker",
     "name": "Poker",
-    "description": "A classic card game of strategy, betting, and bluffing.",
+    "info": "A classic card game of strategy, betting, and bluffing.",
     "imageName": "Poker"
   },
   {
     "id": "codenames",
     "name": "Codenames",
-    "description": "A word association game where teams guess secret agents.",
+    "info": "A word association game where teams guess secret agents.",
     "imageName": "Codenames"
   },
   {
     "id": "ticket-to-ride",
     "name": "Ticket to Ride",
-    "description": "Build train routes across countries and complete destination tickets.",
+    "info": "Build train routes across countries and complete destination tickets.",
     "imageName": "TicketToRide"
   },
   {
     "id": "uno",
     "name": "UNO",
-    "description": "Match colors and numbers and be the first to get rid of your cards.",
+    "info": "Match colors and numbers and be the first to get rid of your cards.",
     "imageName": "Uno"
   },
   {
     "id": "exploding-kittens",
     "name": "Exploding Kittens",
-    "description": "A chaotic card game of luck, strategy, and exploding cats.",
+    "info": "A chaotic card game of luck, strategy, and exploding cats.",
     "imageName": "ExplodingKittens"
   },
   {
     "id": "risk",
     "name": "Risk",
-    "description": "A global domination strategy board game.",
+    "info": "A global domination strategy board game.",
     "imageName": "Risk"
   },
   {
     "id": "carcassonne",
     "name": "Carcassonne",
-    "description": "Build landscapes and claim cities, roads, and fields.",
+    "info": "Build landscapes and claim cities, roads, and fields.",
     "imageName": "Carcassonne"
   },
   {
     "id": "pandemic",
     "name": "Pandemic",
-    "description": "Cooperative game where players work together to stop global disease outbreaks.",
+    "info": "Cooperative game where players work together to stop global disease outbreaks.",
     "imageName": "Pandemic"
   },
   {
     "id": "splendor",
     "name": "Splendor",
-    "description": "Collect gems and build a Renaissance trading empire.",
+    "info": "Collect gems and build a Renaissance trading empire.",
     "imageName": "Splendor"
   },
   {
     "id": "azul",
     "name": "Azul",
-    "description": "A tile-placement game about creating beautiful mosaic patterns.",
+    "info": "A tile-placement game about creating beautiful mosaic patterns.",
     "imageName": "Azul"
   },
   {
     "id": "the-resistance",
     "name": "The Resistance",
-    "description": "A social deduction game of trust, betrayal, and hidden spies.",
+    "info": "A social deduction game of trust, betrayal, and hidden spies.",
     "imageName": "TheResistance"
   }  
 ]
